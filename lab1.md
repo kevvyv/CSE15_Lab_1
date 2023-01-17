@@ -10,6 +10,7 @@ to https://code.visualstudio.com/ and select install and make sure the version m
 
 After downloading VS code and launching it the application should look like:
 
+![image](https://user-images.githubusercontent.com/122575342/212789129-a4edadef-3a6b-4cb5-9c02-b1f37240e5ca.png)
 
 
 
