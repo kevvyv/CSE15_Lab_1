@@ -24,7 +24,7 @@ The screen should look something like this
 
 you will then click the additional accounts to set your password for your CSE15L account and after resetting, it will take around 15 minutes for the password change to take effect 
 
-Once your password is set, open up a terminal on VS code and enter the command, '$ ssh cs15lwi23zz@ieng6.ucsd.edu' however replace the "zz" with the characters found in your username. This will allow you to remotely connect and you should be able to see a new internface displaying that your device is now connected.
+Once your password is set, open up a terminal on VS code and enter the command, `$ ssh cs15lwi23zz@ieng6.ucsd.edu` however replace the "zz" with the characters found in your username. This will allow you to remotely connect and you should be able to see a new internface displaying that your device is now connected.
 
 The terminal should look like: 
 
@@ -32,14 +32,14 @@ The terminal should look like:
 
 After connecting, the final step is for you to try some commands and some that you can try are listed below:
 
-'''cd ~
-'''cd
-'''ls -lat
-'''ls -a
-'''ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc
-'''cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
-'''cat /home/linux/ieng6/cs15lwi23/public/hello.txt
-'''exit
+```cd ~
+```cd
+```ls -lat
+```ls -a
+```ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc
+```cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+```cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+```exit
 
 After this you have sucessfully remotely connected and completed all the steps!
 
