@@ -73,7 +73,7 @@ This command creates a copy of the designated file and it could be useful if a u
 This command concatinates the assigned file while also viewing the contents inside the file and in this case displayed the text that was in the file. This is an extrmely useful command as accessing a files properties is crucial in many programs.
 
 `exit`
-> Output
+> Output:
 ![image](https://user-images.githubusercontent.com/122575342/215358309-a51e9ad9-4f22-4757-a1c3-c7da665008d6.png)
 This command exits the user from their remote connection and is useful when a user wants to quit out of their connection when they are done programming.
 
